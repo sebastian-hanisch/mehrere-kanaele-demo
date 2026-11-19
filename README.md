@@ -1,7 +1,6 @@
 # Viele Kanäle: was eine gemeinsame Alarmregel kostet – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-mehrere-kanaele-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-mehrere-kanaele-demo.streamlit.app/)**
 
 Stück 6 der Linie **Änderungserkennung** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Der Ast „online“ der Linie (Stücke 1 bis 6) misst überall dasselbe: **Beobachtungen bis zum Alarm**. Dieses Stück hebt die Annahme auf, dass die Karte **eine** Reihe überwacht: p Reihen („Kanäle“) laufen gleichzeitig, es gibt **einen** gemeinsamen Alarm, und die Fehlalarmrate (ARL₀ 370,4) soll für den gemeinsamen Alarm gelten. Vorgänger ist Stück 5 („Wenn die Werte nicht unabhängig sind“: Abhängigkeit **in der Zeit**), Nachfolger Stück 7 („Brüche im Rückblick finden“: anderes Maß). Wie Mittel und Kovarianz aus Phase I geschätzt werden, steht in `anfangsparameter-abhaengig-demo` (Stück 4b); hier sind sie bekannt.
 
